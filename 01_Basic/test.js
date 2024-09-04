@@ -1,1 +1,1 @@
-console.log("Practise for Javascript");
+console.log("Practise for Javascript"); 
